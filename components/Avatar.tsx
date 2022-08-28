@@ -9,7 +9,7 @@ function Avatar({ seed, large }: Props) {
   // get the session
   const session = {
     user: {
-      name: "khairi slama",
+      name: "khairi",
     },
   };
   return (
